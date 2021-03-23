@@ -1,0 +1,68 @@
+﻿  Building Custom Rule C:/Users/jeanp/futurehead-node/CMakeLists.txt
+  mdb.c
+  midl.c
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\midl.c(44): warning C4267: 'inicializando': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\midl.c(146): warning C4267: '+=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\midl.c(176): warning C4267: 'função': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(1862): warning C4267: 'inicializando': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(2045): warning C4267: '+=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(2084): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(2059): warning C4267: 'inicializando': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(2289): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(2309): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(2195): warning C4267: 'inicializando': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(2484): warning C4267: '=': conversão de 'size_t' para 'unsigned short', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(2938): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(2939): warning C4267: 'função': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(3405): warning C4267: '=': conversão de 'size_t' para 'DWORD', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(3406): warning C4267: 'função': conversão de 'size_t' para 'DWORD', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(3345): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(3555): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(3559): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(3595): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(3598): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(3613): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(3920): warning C4244: '+=': conversão de '__int64' para 'off_t', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(4363): warning C4996: 'GetVersion': foi declarado preterido
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\sysinfoapi.h(164): note: consulte a declaração de 'GetVersion'
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(4759): warning C4244: 'função': conversão de 'mdb_hash_t' para 'unsigned long', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(5019): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(532): note: consulte a declaração de 'strdup'
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(5266): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(5269): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(5274): warning C4244: 'return': conversão de 'ssize_t' para 'int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(5300): warning C4244: 'return': conversão de 'ssize_t' para 'int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(5748): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(5756): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(5768): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(5769): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(6599): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(6714): warning C4267: '=': conversão de 'size_t' para 'uint16_t', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(6796): warning C4267: '=': conversão de 'size_t' para 'uint16_t', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(6802): warning C4267: '=': conversão de 'size_t' para 'indx_t', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(6858): warning C4267: '=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(6938): warning C4146: operador menos unário aplicado a tipo unsigned, resultado permanece unsigned
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(6946): warning C4267: '=': conversão de 'size_t' para 'unsigned short', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(7067): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(6894): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(7339): warning C4267: '-=': conversão de 'size_t' para 'indx_t', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(7379): warning C4267: '=': conversão de 'size_t' para 'indx_t', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(7387): warning C4267: '=': conversão de 'size_t' para 'unsigned short', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(7390): warning C4267: '=': conversão de 'size_t' para 'unsigned short', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(7392): warning C4267: '=': conversão de 'size_t' para 'unsigned short', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(7352): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(7453): warning C4267: '+=': conversão de 'size_t' para 'indx_t', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(7515): warning C4333: '>>': right shift por valor muito grande, perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(7851): warning C4267: '=': conversão de 'size_t' para 'unsigned short', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(7974): warning C4267: 'função': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(8737): warning C4267: '-=': conversão de 'size_t' para 'indx_t', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(8745): warning C4267: '-=': conversão de 'size_t' para 'indx_t', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(8753): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(8755): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(9337): warning C4267: '=': conversão de 'size_t' para 'unsigned short', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(9524): warning C4267: '=': conversão de 'size_t' para 'DWORD', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(9560): warning C4267: '=': conversão de 'size_t' para 'DWORD', possível perda de dados
+C:\Users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(9842): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(532): note: consulte a declaração de 'strdup'
+c:\users\jeanp\futurehead-node\lmdb\libraries\liblmdb\mdb.c(1546): warning C4172: retornando o endereço da variável local ou temporário: buf
+  lmdb.vcxproj -> C:\Users\jeanp\futurehead-node\build\Debug\lmdb.lib

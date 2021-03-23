@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/jeanp/futurehead-node/CMakeLists.txt
+  argon2.c
+  core.c
+  thread.c
+  encoding.c
+  opt.c
+  argon2.vcxproj -> C:\Users\jeanp\futurehead-node\build\Debug\argon2.lib

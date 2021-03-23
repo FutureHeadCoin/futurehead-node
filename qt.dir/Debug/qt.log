@@ -1,0 +1,98 @@
+﻿  qt.cpp
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(137): error C2327: 'futurehead::send_hashables::previous': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(137): error C2065: 'previous': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(137): error C2327: 'futurehead::send_hashables::destination': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(137): error C2065: 'destination': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(137): error C2327: 'futurehead::send_hashables::balance': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(137): error C2065: 'balance': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(170): error C2327: 'futurehead::send_block::signature': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(170): error C2327: 'futurehead::send_block::work': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(170): error C2065: 'work': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(182): error C2327: 'futurehead::receive_hashables::previous': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(182): error C2065: 'previous': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(182): error C2327: 'futurehead::receive_hashables::source': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(182): error C2065: 'source': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(215): error C2327: 'futurehead::receive_block::signature': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(215): error C2327: 'futurehead::receive_block::work': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(215): error C2065: 'work': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(228): error C2327: 'futurehead::open_hashables::source': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(228): error C2065: 'source': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(228): error C2327: 'futurehead::open_hashables::representative': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(228): error C2065: 'representative': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(228): error C2327: 'futurehead::open_hashables::account': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(264): error C2327: 'futurehead::open_block::signature': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(264): error C2327: 'futurehead::open_block::work': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(264): error C2065: 'work': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(276): error C2327: 'futurehead::change_hashables::previous': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(276): error C2065: 'previous': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(276): error C2327: 'futurehead::change_hashables::representative': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(276): error C2065: 'representative': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(309): error C2327: 'futurehead::change_block::signature': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(309): error C2327: 'futurehead::change_block::work': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(309): error C2065: 'work': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2327: 'futurehead::state_hashables::account': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2327: 'futurehead::state_hashables::previous': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2065: 'previous': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2327: 'futurehead::state_hashables::representative': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2065: 'representative': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2327: 'futurehead::state_hashables::balance': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2065: 'balance': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2327: 'futurehead::state_hashables::link': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(370): error C2327: 'futurehead::state_block::signature': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(370): error C2327: 'futurehead::state_block::work': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(370): error C2065: 'work': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(207): error C2327: 'futurehead::message_header::version_max': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(207): error C2065: 'version_max': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(207): error C2327: 'futurehead::message_header::version_using': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(207): error C2065: 'version_using': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(207): error C2327: 'futurehead::message_header::version_min_m': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(207): error C2065: 'version_min_m': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(207): error C2327: 'futurehead::message_header::type': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(207): error C2065: 'type': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(343): error C2327: 'futurehead::frontier_req::start': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(343): error C2065: 'start': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(343): error C2327: 'futurehead::frontier_req::age': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(343): error C2065: 'age': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(343): error C2327: 'futurehead::frontier_req::count': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(343): error C2065: 'count': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::signature': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::node_id': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'node_id': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::block_count': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'block_count': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::cemented_count': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'cemented_count': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::unchecked_count': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'unchecked_count': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::account_count': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'account_count': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::bandwidth_cap': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'bandwidth_cap': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::peer_count': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'peer_count': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::protocol_version': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'protocol_version': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::uptime': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'uptime': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::genesis_block': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'genesis_block': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::major_version': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'major_version': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::minor_version': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'minor_version': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::patch_version': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'patch_version': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::pre_release_version': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'pre_release_version': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::maker': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'maker': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2327: 'futurehead::telemetry_data::active_difficulty': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(377): error C2065: 'active_difficulty': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(422): error C2327: 'futurehead::bulk_pull::start': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(422): error C2065: 'start': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(422): error C2327: 'futurehead::bulk_pull::end': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(422): error C2065: 'end': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(435): error C2327: 'futurehead::bulk_pull_account::account': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(435): error C2327: 'futurehead::bulk_pull_account::minimum_amount': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/node/common.hpp(435): error C2065: 'minimum_amount': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead\qt\qt.cpp(76): warning C4242: '=': conversão de 'int' para 'char', possível perda de dados

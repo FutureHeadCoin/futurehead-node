@@ -1,0 +1,47 @@
+﻿  Building Custom Rule C:/Users/jeanp/futurehead-node/CMakeLists.txt
+  Assembling C:\Users\jeanp\futurehead-node\crypto\cryptopp\x64dll.asm...
+  Assembling C:\Users\jeanp\futurehead-node\crypto\cryptopp\x64masm.asm...
+  algparam.cpp
+  asn.cpp
+  basecode.cpp
+  cpu.cpp
+  cryptlib.cpp
+  default.cpp
+  des.cpp
+  dessp.cpp
+  dll.cpp
+  ec2n.cpp
+  ecp.cpp
+  filters.cpp
+  fips140.cpp
+  gcm.cpp
+  gf2n.cpp
+  gfpcrypt.cpp
+  hex.cpp
+  hmac.cpp
+  hrtimer.cpp
+  integer.cpp
+  iterhash.cpp
+  misc.cpp
+  modes.cpp
+  mqueue.cpp
+  nbtheory.cpp
+  oaep.cpp
+  osrng.cpp
+  pubkey.cpp
+  queue.cpp
+C:\Users\jeanp\futurehead-node\crypto\cryptopp\hrtimer.cpp(11): warning C4005: 'WIN32_LEAN_AND_MEAN': redefinição de macro
+  C:\Users\jeanp\futurehead-node\crypto\cryptopp\hrtimer.cpp(11): note: argumentos de linha de comando:  consulte a definição anterior de 'WIN32_LEAN_AND_MEAN'
+  randpool.cpp
+  rdtables.cpp
+  rijndael.cpp
+  rijndael_simd.cpp
+C:\Users\jeanp\futurehead-node\crypto\cryptopp\osrng.cpp(25): warning C4005: 'WIN32_LEAN_AND_MEAN': redefinição de macro
+  C:\Users\jeanp\futurehead-node\crypto\cryptopp\osrng.cpp(25): note: argumentos de linha de comando:  consulte a definição anterior de 'WIN32_LEAN_AND_MEAN'
+  rng.cpp
+  sha.cpp
+  sha_simd.cpp
+  simple.cpp
+  sse_simd.cpp
+simple.obj : warning LNK4221: Este objeto nÒo define nenhum dos sÝmbolos anteriormente indefinidos, portanto ele nÒo serß utilizado em nenhuma operaþÒo de vÝnculo que consuma esta biblioteca
+  cryptopp.vcxproj -> C:\Users\jeanp\futurehead-node\build\Debug\cryptopp.lib

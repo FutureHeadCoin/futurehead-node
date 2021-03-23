@@ -1,0 +1,13 @@
+[Unit]
+Description=Futurehead Daemon beta network
+After=network.target
+
+[Service]
+Type=simple
+User=futureheadcurrency
+WorkingDirectory=/var/futureheadcurrency/FutureheadBeta
+ExecStart=/usr/bin/futurehead_node-beta --daemon
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,43 @@
+﻿  entry_com.cpp
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(137): error C2327: 'futurehead::send_hashables::previous': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(137): error C2065: 'previous': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(137): error C2327: 'futurehead::send_hashables::destination': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(137): error C2065: 'destination': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(137): error C2327: 'futurehead::send_hashables::balance': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(137): error C2065: 'balance': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(170): error C2327: 'futurehead::send_block::signature': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(170): error C2327: 'futurehead::send_block::work': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(170): error C2065: 'work': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(182): error C2327: 'futurehead::receive_hashables::previous': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(182): error C2065: 'previous': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(182): error C2327: 'futurehead::receive_hashables::source': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(182): error C2065: 'source': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(215): error C2327: 'futurehead::receive_block::signature': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(215): error C2327: 'futurehead::receive_block::work': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(215): error C2065: 'work': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(228): error C2327: 'futurehead::open_hashables::source': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(228): error C2065: 'source': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(228): error C2327: 'futurehead::open_hashables::representative': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(228): error C2065: 'representative': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(228): error C2327: 'futurehead::open_hashables::account': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(264): error C2327: 'futurehead::open_block::signature': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(264): error C2327: 'futurehead::open_block::work': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(264): error C2065: 'work': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(276): error C2327: 'futurehead::change_hashables::previous': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(276): error C2065: 'previous': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(276): error C2327: 'futurehead::change_hashables::representative': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(276): error C2065: 'representative': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(309): error C2327: 'futurehead::change_block::signature': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(309): error C2327: 'futurehead::change_block::work': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(309): error C2065: 'work': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2327: 'futurehead::state_hashables::account': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2327: 'futurehead::state_hashables::previous': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2065: 'previous': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2327: 'futurehead::state_hashables::representative': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2065: 'representative': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2327: 'futurehead::state_hashables::balance': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2065: 'balance': identificador não declarado
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(334): error C2327: 'futurehead::state_hashables::link': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(370): error C2327: 'futurehead::state_block::signature': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(370): error C2327: 'futurehead::state_block::work': não é um nome de tipo, static, ou enumerador
+C:\Users\jeanp\futurehead-node\futurehead/lib/blocks.hpp(370): error C2065: 'work': identificador não declarado

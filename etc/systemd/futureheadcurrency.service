@@ -1,0 +1,13 @@
+[Unit]
+Description=Futurehead Daemon live network
+After=network.target
+
+[Service]
+Type=simple
+User=futureheadcurrency
+WorkingDirectory=/var/futureheadcurrency/Futurehead
+ExecStart=/usr/bin/futurehead_node --daemon
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
